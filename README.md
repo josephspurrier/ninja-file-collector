@@ -1,6 +1,6 @@
 # Ninja File Collector - Chrome Browser Extension
 
-Shows a list of all the files the webpage uses through the Developer tools.
+Shows a list of all the files the webpage uses through the Developer tools. This extension makes it easy to copy and paste into other tools.
 
 The extension can be found on the Chrome Store [here](https://chrome.google.com/webstore/detail/ninja-file-collector/mifinndldjidbdidlapemefmlnknkcmo).
 
