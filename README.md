@@ -13,4 +13,4 @@ Reload the current page and the files will populate. Press Clear Log to empty th
 
 Tool in Action:
 
-![Image of Screenshot](https://raw.githubusercontent.com/ninja-file-collector/master/github_screenshots/nfc01.png)
+![Image of Screenshot](https://raw.githubusercontent.com/josephspurrier/ninja-file-collector/master/github_screenshots/nfc01.png)
